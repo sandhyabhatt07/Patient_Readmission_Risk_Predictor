@@ -1,6 +1,7 @@
-gradio>=4.0.0
+gradio
 pandas
 numpy
 joblib
 fpdf
+xgboost
 scikit-learn
