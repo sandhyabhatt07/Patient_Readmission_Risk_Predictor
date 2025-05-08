@@ -47,11 +47,15 @@ The experimental model was trained using:
 
 ### Feature Importance (SHAP Analysis)
 Based on SHAP analysis, the most influential factors in predicting readmission are:
-1. Number of inpatient visits
-2. Number of emergency visits
-3. Number of diagnoses
-4. Discharge disposition
-5. Time in hospital
+
+1.Discharge group (strong negative impact: -1.2)
+2.Inpatient timespan (+0.29)
+3.Visit density (+0.24)
+4.Number of inpatient visits (+0.16)
+5.Number of emergency visits (+0.13)
+6.Time in hospital (+0.13)
+
+The analysis reveals that while discharge characteristics significantly reduce readmission probability, metrics related to prior healthcare utilization and hospital stay duration are the strongest positive predictors of readmission risk.
 
 ### Intervention Simulation Results
 The experiment included a simulation of targeted interventions for high-risk patients:
