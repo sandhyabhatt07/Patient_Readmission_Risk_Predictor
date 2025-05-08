@@ -2,6 +2,10 @@
 
 [![Open in Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/yourusername/readmission-risk-predictor)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.0.0-brightgreen.svg)](https://xgboost.readthedocs.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-orange.svg)](https://scikit-learn.org/)
+[![Gradio](https://img.shields.io/badge/Gradio-3.41.2-blue.svg)](https://gradio.app/)
+[![SHAP](https://img.shields.io/badge/SHAP-0.42.1-purple.svg)](https://github.com/slundberg/shap)
 
 An experimental machine learning application that demonstrates the concept of predicting 30-day hospital readmission risk for diabetic patients, deployed as a Gradio web interface on Hugging Face Spaces. This project serves as a proof-of-concept to explore basic machine learning methods for healthcare predictions.
 
