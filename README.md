@@ -148,9 +148,6 @@ The model was trained on the UCI Diabetes 130-US hospitals dataset, which includ
 2. XGBoost: [https://xgboost.readthedocs.io/](https://xgboost.readthedocs.io/)
 3. SHAP: [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## ✨ Experiment Context
 
@@ -162,6 +159,4 @@ This project was developed as part of a machine learning experiment to:
 
 The focus was on learning and experimentation rather than developing a production-ready clinical tool.
 
----
 
-*Disclaimer: This tool is EXPERIMENTAL and for educational and research purposes only. It has not been clinically validated, uses basic machine learning methods, and should not be used for actual medical decision-making. The predictions should not replace professional medical judgment under any circumstances. Always consult healthcare professionals before making medical decisions.*
